@@ -57,4 +57,4 @@ When looking at the model we see that the middle compared to the back dooes not 
 
 ## Conclusions
 
-
+When going through the process that's two variables there are more steps that we had to go through which can complicate the process in this assignment. We used ggplot to create the boxplot which showed us the median of how many drinks were consumed per section. Then we ran a numerical summary of the information so we could get exact numbers and see how big the difference actually was. After we ran the interval test to get the probability of these three sections consuming the same amount of alcohol which was 0.000116. We used that comparison model that showed us how significant the difference between each section was. I came to the conclusion that there is in fact a significant difference between how much alcohol the three sections consumed. 
